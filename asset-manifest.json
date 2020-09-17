@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/senemsoy/chatty/static/css/main.1e4c3c58.chunk.css",
+    "main.js": "/senemsoy/chatty/static/js/main.a960ba32.chunk.js",
+    "main.js.map": "/senemsoy/chatty/static/js/main.a960ba32.chunk.js.map",
+    "runtime-main.js": "/senemsoy/chatty/static/js/runtime-main.2e9cc56e.js",
+    "runtime-main.js.map": "/senemsoy/chatty/static/js/runtime-main.2e9cc56e.js.map",
+    "static/js/2.7a528f03.chunk.js": "/senemsoy/chatty/static/js/2.7a528f03.chunk.js",
+    "static/js/2.7a528f03.chunk.js.map": "/senemsoy/chatty/static/js/2.7a528f03.chunk.js.map",
+    "index.html": "/senemsoy/chatty/index.html",
+    "precache-manifest.4201502fd3814329ee7bc2ea18a5f74a.js": "/senemsoy/chatty/precache-manifest.4201502fd3814329ee7bc2ea18a5f74a.js",
+    "service-worker.js": "/senemsoy/chatty/service-worker.js",
+    "static/css/main.1e4c3c58.chunk.css.map": "/senemsoy/chatty/static/css/main.1e4c3c58.chunk.css.map",
+    "static/js/2.7a528f03.chunk.js.LICENSE.txt": "/senemsoy/chatty/static/js/2.7a528f03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e9cc56e.js",
+    "static/js/2.7a528f03.chunk.js",
+    "static/css/main.1e4c3c58.chunk.css",
+    "static/js/main.a960ba32.chunk.js"
+  ]
+}
