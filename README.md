@@ -1,3 +1,21 @@
+## Chatty
+A simple React chatroom app with Firebase. Google and GitHub sign-up integration.
+
+## Home page
+Desktop version.
+
+<img src = "home.png" width="800px"/>
+
+## Sign up
+Sign up either with, email, Google account, or Github.
+
+<img src = "sign up.png" width="800px"/>
+
+## Chatroom
+Chat with all the other users!
+
+<img src = "chatroom.png" width="800px"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
